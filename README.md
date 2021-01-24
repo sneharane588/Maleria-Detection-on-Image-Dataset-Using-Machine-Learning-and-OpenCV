@@ -20,7 +20,7 @@ Samples drawn from NIH Malaria dataset which are malaria infected parasite red b
 4. Get the 4 areas of lagest encountered countours.
   ( for uninfected cell image, there will be only 1 countour i.e. cell boundary )
   
-5. Store the data obtained into the SCV file.
+5. Store the data obtained into the CSV file.
    The dataset looks like this : 
    
    ![maleria-data](https://user-images.githubusercontent.com/19407823/94339271-4c0af880-0016-11eb-925c-80252418b7d6.PNG)
