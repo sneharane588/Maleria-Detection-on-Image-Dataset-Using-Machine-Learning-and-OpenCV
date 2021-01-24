@@ -3,7 +3,7 @@
 # Problem Statement :
 ## Detecting whether the human cell given in image is infected by maleria or not.
 
-Here I used some common techmoques of Computer Vision and Machine Learning.
+Here I used some common techniques of Computer Vision and Machine Learning.
 Here the project deals with image data.
 
 ## Image dataset link : https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
