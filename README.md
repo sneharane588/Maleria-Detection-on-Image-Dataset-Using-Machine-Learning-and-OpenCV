@@ -7,10 +7,12 @@ Here I used some common techniques of Computer Vision and Machine Learning.
 Here the project deals with image data.
 
 ## Image dataset link : https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html
 
 Samples drawn from NIH Malaria dataset which are malaria infected parasite red blood cells. The images show various forms of parasite in the red blood cells.
 
 ![Samples-drawn-from-NIH-Malaria-dataset-which-are-malaria-infected-parasite-red-blood](https://user-images.githubusercontent.com/19407823/94339059-ad31cc80-0014-11eb-9a1b-b8adb3c35cbd.jpg)
+
 
 ### Steps performed : 
 
